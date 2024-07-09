@@ -3,6 +3,9 @@
 
 Script ini dibuat untuk mengirimkan pesan spam secara otomatis melalui WhatsApp Web, terutama ditujukan untuk melawan dan mengganggu scammer atau penipu. Script ini menggunakan `pyautogui` untuk melakukan otomatisasi input pesan di WhatsApp Web.
 
+## PERINGATAN! 🛑🛑
+Penggunaan script ini untuk mengirim spam dapat melanggar ketentuan layanan dari WhatsApp dan dapat mengakibatkan pemblokiran akun. JANGAN GUNAKAN KODE INI TANPA IZIN. Setelah mendapat izin, gunakan dengan bijak dan bertanggung jawab. 
+
 ## Persyaratan
 
 - Python 3.x
@@ -58,9 +61,6 @@ for i in range(1000):
     # Menekan tombol enter untuk mengirimkan pesan
     pg.press('enter')
 ```
-
-## Peringatan
-Penggunaan script ini untuk mengirim spam dapat melanggar ketentuan layanan dari WhatsApp dan dapat mengakibatkan pemblokiran akun. Gunakan dengan bijak dan bertanggung jawab.
 
 
 
