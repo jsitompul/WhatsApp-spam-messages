@@ -1,3 +1,4 @@
+
 # WhatsApp Spam Message (Digunakan Versus Scammer/Penipu)
 
 Script ini dibuat untuk mengirimkan pesan spam secara otomatis melalui WhatsApp Web, terutama ditujukan untuk melawan dan mengganggu scammer atau penipu. Script ini menggunakan `pyautogui` untuk melakukan otomatisasi input pesan di WhatsApp Web.
@@ -56,3 +57,10 @@ for i in range(1000):
     pg.write(ejekan)
     # Menekan tombol enter untuk mengirimkan pesan
     pg.press('enter')
+```
+
+## Peringatan
+Penggunaan script ini untuk mengirim spam dapat melanggar ketentuan layanan dari WhatsApp dan dapat mengakibatkan pemblokiran akun. Gunakan dengan bijak dan bertanggung jawab.
+
+
+
