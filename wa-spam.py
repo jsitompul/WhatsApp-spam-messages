@@ -1,4 +1,6 @@
+# Name: Whatsapp Spam Message
 # Author: Jimmy Sitompul
+#MIT License
 
 # Import modul random untuk memilih pesan secara acak
 import random
