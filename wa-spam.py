@@ -10,7 +10,7 @@ import pyautogui as pg
 import time
 
 # Daftar pesan yang akan dikirimkan secara acak
-message = ['Cieee penipu', 'Dasar tukang tipu', 'Ketauan nihh yee', 'Lu kurang jago bro hahaha', 'SDM RENDAH']
+message = ['Anda jangan seperti ini', 'Menipu itu tidak baik', 'Bertobatlah, cari uang yang halal saja', 'Rezeki gak akan kemana kok', 'Jangan diulangi lagi, ya']
 
 # Menunggu selama 5 detik sebelum memulai pengiriman pesan
 time.sleep(5)
