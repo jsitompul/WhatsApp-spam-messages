@@ -16,7 +16,7 @@ message = ['Anda jangan seperti ini', 'Menipu itu tidak baik', 'Bertobatlah, car
 time.sleep(5)
 
 # Loop untuk mengirimkan pesan sebanyak 1000 kali
-for i in range(20):
+for i in range(25):
     # Memilih pesan secara acak dari daftar pesan
     ejekan = random.choice(message)
     # Menulis pesan terpilih ke dalam jendela chat
